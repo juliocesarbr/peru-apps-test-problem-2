@@ -42,8 +42,8 @@ php -S localhost:8000 -t public
 http://localhost:8000/api/get-utc-date
 ```
 
-Request type: POST
-Params:
+- Request type: POST
+- Params:
 
 ```
 {

@@ -22,7 +22,11 @@ con el siguiente formato:
 # Stack required
 
 - PHP ^7.3
-- Composer ^2.1.6,
+- Composer ^2.1.6
+
+## Framework and libraries used
+
+- laravel/lumen-framework: ^8.3.1
 
 # Install dependencies
 
